@@ -1,5 +1,5 @@
 package goLessons
 
-func myFunc(x, y int) int {
+func MyFunc(x, y int) int {
 	return x * y
 }

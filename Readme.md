@@ -1,0 +1,1 @@
+this module is test for probe to make new module and set require it in another module
